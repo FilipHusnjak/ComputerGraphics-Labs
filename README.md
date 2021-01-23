@@ -1,4 +1,4 @@
-# RGLabs
+# ComputerGraphics-Labs
 
 Laboratory exercises for Computer graphics course.
 
